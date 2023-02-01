@@ -1,2 +1,2 @@
 # sort
-sorting algrothm using c
+sorting algorithm using c
